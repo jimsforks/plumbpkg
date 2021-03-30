@@ -15,7 +15,7 @@ motivations behind this example:
 
 ```r
 # install.packages("remotes")
-remotes::install_github("sol-eng/plumbpkg")
+remotes::install_github("jimsforks/plumbpkg")
 ```
 
 ## Architecture
